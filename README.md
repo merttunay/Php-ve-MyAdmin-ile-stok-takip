@@ -8,3 +8,5 @@ Proje içerisinde index sayfasının sağ üstünde İngilizce/Türkçe çeviri 
 Müşteri ekleyince ve silince log kaydı oluşturur.
 
 Siparişler sayfasında sipariş tablosunun pdf çıktısını alabileceğiniz bir buton bulurunur.
+
+Veritabanı kodları klasör içinde esnafotomasyonu.sql yer almaktadır.
